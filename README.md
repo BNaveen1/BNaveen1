@@ -8,7 +8,7 @@ I am responsible for the design and implementation of user interfaces (UIs) and 
 
 * 🌍  I'm based in India
 * ✉️  You can contact me at [naveen.bommula@gmail.com](mailto:naveen.bommula@gmail.com)
-* 🧠  I'm learning I am learning MERN full stack
+* 🧠  I'm learning MERN full stack
 
 ### Skills
 
